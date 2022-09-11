@@ -1,0 +1,10 @@
+/node_modules
+
+/yarn-error.log
+
+
+/server/node_modules
+/server/dist
+
+
+/.next

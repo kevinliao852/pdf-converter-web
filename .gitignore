@@ -8,5 +8,6 @@
 /server/pdf/*
 /server/uploads/*
 
+**/__pycache__
 
 /.next

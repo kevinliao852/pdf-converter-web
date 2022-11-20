@@ -5,6 +5,8 @@
 
 /server/node_modules
 /server/dist
+/server/pdf/*
+/server/uploads/*
 
 
 /.next
